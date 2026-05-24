@@ -1,8 +1,8 @@
 site_name: MkDocs Template
 site_description: "This is a template repository for documentation, wiki, knowledge base and technical blog using 'Material for MkDocs'."
-site_url: https://mkdocs.bybatkhuu.dev
-repo_name: bybatkhuu/docs-mkdocs-template
-repo_url: https://github.com/bybatkhuu/docs-mkdocs-template
+site_url: https://docs.ideree.dev
+repo_name: iderbatbj/docs.ideree.dev
+repo_url: https://github.com/iderbatbj/docs.ideree.dev
 theme:
   name: material
   # name: readthedocs

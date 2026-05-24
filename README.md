@@ -1,8 +1,8 @@
 # MkDocs Material Template
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bybatkhuu/docs-mkdocs-template/4.publish-docs.yml?logo=GitHub)](https://github.com/bybatkhuu/docs-mkdocs-template/actions/workflows/4.publish-docs.yml)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/bybatkhuu/docs-mkdocs-template?logo=GitHub&color=blue)](https://github.com/bybatkhuu/docs-mkdocs-template/releases)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/iderbatbj/docs.ideree.dev/4.publish-docs.yml?logo=GitHub)](https://github.com/iderbatbj/docs.ideree.dev/actions/workflows/4.publish-docs.yml)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/iderbatbj/docs.ideree.dev?logo=GitHub&color=blue)](https://github.com/iderbatbj/docs.ideree.dev/releases)
 
 This is a template repository for documentation, wiki, knowledge base and technical blog using **Material for MkDocs**.
 
@@ -48,20 +48,20 @@ cd ~/workspaces/projects
 **OPTION A.** Clone the repository:
 
 ```sh
-git clone https://github.com/bybatkhuu/docs-mkdocs-template.git && \
+git clone https://github.com/iderbatbj/docs.ideree.dev.git && \
     cd docs-mkdocs-template
 ```
 
 **OPTION B.** Clone the repository (for **DEVELOPMENT**: git + ssh key):
 
 ```sh
-git clone git@github.com:bybatkhuu/docs-mkdocs-template.git && \
+git clone git@github.com:iderbatbj/docs.ideree.dev.git && \
     cd docs-mkdocs-template
 ```
 
 **OPTION C.** Download source code:
 
-1. Download archived **zip** file from [**releases**](https://github.com/bybatkhuu/docs-mkdocs-template/releases).
+1. Download archived **zip** file from [**releases**](https://github.com/iderbatbj/docs.ideree.dev/releases).
 2. Extract it into the projects directory.
 
 ### 3. 📦 Install dependencies
