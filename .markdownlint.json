@@ -1,0 +1,32 @@
+{
+	"MD007": {
+		"indent": 4
+	},
+	"MD013": false,
+	"MD025": false,
+	"MD033": {
+		"allowed_elements": [
+			"center",
+			"img",
+			"br",
+			"hr",
+			"code",
+			"pre",
+			"span",
+			"strong",
+			"div",
+			"p",
+			"blockquote",
+			"ul",
+			"ol",
+			"li",
+			"a",
+			"table",
+			"thead",
+			"tbody",
+			"tr",
+			"th",
+			"td"
+		]
+	}
+}

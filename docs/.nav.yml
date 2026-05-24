@@ -1,0 +1,6 @@
+nav:
+  - Home: README.md
+  - Getting Started: getting-started.md
+  - "*"
+  - Blog: blog/
+  - Release Notes: release-notes.md
