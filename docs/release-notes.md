@@ -6,6 +6,14 @@ hide:
 
 # 📌 Release Notes
 
+## v1.2.1-260524 (2026-05-24)
+
+<!-- Release notes generated using configuration in .github/release.yml at v1.2.1-260524 -->
+
+
+
+**Full Changelog**: https://github.com/iderbatbj/docs.ideree.dev/commits/v1.2.1-260524
+
 ## v1.2.0-250824 (2025-08-24)
 
 <!-- Release notes generated using configuration in .github/release.yml at v1.2.0-250824 -->
